@@ -1,0 +1,23 @@
+{
+  "name": "vanillatodolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "hompage": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litalsh/vanillaToDoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litalsh/vanillaToDoList/issues"
+  },
+  "homepage": "https://github.com/litalsh/vanillaToDoList#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
